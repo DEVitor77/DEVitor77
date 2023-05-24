@@ -11,7 +11,10 @@
 
 <div align="center">
   <a href="https://github.com/DEVitor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DEVitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cosclerison&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosclerison&layout=compact&langs_count=7&theme=gotham"/>
+</div><br><br>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DEVitor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVitor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
                                                                                                                                               
