@@ -3,11 +3,7 @@
 - 🔭 Apaixonado por Ciência & tecnologia
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas 1/4
 
-
- 
-
 ##
-
 
 <div align="center">
   <a href="https://github.com/DEVitor">
