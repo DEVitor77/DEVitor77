@@ -1,7 +1,7 @@
 ### Hi, I'm Valter Vitor
 
 - 🔭 Apaixonado por Ciência & tecnologia
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas 2/5
+- 🌱 Estudante de Analise e Desenvolvimento de Sistemas 3/5
 
 ###
 
