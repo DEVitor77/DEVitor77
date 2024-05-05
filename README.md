@@ -24,7 +24,14 @@
   <img align="center" alt="DEVitor77-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 </div>  
 
- ###                                                                                                                                                                                                                                                                                             
+ ###      
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>                                                                                                     
+
 <div>
   
   <a href="https://instagram.com/vitordrummer77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
