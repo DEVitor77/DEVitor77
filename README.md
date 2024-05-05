@@ -10,12 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVitor77&layout=compact&theme=tokyonight"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ![Snake animation](https://github.com/DEVitor77/DEVitor77/blob/output/github-contribution-grid-snake.svg)
 
 ###                                                                                                                                              
