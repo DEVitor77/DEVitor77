@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVitor77&layout=compact&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/DEVitor77/DEVitor77/blob/output/github-contribution-grid-snake.svg)
+<img alt="github-snake" src="/snake.svg" />
+
+<!-- ![Snake animation](https://github.com/DEVitor77/DEVitor77/blob/output/github-contribution-grid-snake.svg) -->
 
 ###                                                                                                                                              
 <div style="display: inline_block"><br>
